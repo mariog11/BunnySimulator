@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BunnySimulator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BunnySimulator">
+				<Option output="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/BunnySimulator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 BunnySimulator"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BunnySimulator/fast">
+				<Option output="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/BunnySimulator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 BunnySimulator/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Prometheus/Documents/ClionProjects/BunnySimulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/Headers/BunnyWomb.h">
+			<Option target="BunnySimulator"/>
+		</Unit>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/Headers/Enemy.h">
+			<Option target="BunnySimulator"/>
+		</Unit>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/Headers/Functions.h">
+			<Option target="BunnySimulator"/>
+		</Unit>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/Headers/game.h">
+			<Option target="BunnySimulator"/>
+		</Unit>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/Source/BunnyWomb.cpp">
+			<Option target="BunnySimulator"/>
+		</Unit>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/Source/Enemy.cpp">
+			<Option target="BunnySimulator"/>
+		</Unit>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/Source/Functions.cpp">
+			<Option target="BunnySimulator"/>
+		</Unit>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/Source/game.cpp">
+			<Option target="BunnySimulator"/>
+		</Unit>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/main.cpp">
+			<Option target="BunnySimulator"/>
+		</Unit>
+		<Unit filename="/Users/Prometheus/Documents/ClionProjects/BunnySimulator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
